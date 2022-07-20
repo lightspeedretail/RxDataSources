@@ -309,9 +309,9 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = C82C3C5D1F3B937500309AE8 /* Build configuration list for PBXNativeTarget "Differentiator" */;
 			buildPhases = (
+				C82C3C511F3B937500309AE8 /* Headers */,
 				C82C3C4F1F3B937500309AE8 /* Sources */,
 				C82C3C501F3B937500309AE8 /* Frameworks */,
-				C82C3C511F3B937500309AE8 /* Headers */,
 				C82C3C521F3B937500309AE8 /* Resources */,
 			);
 			buildRules = (
@@ -328,9 +328,9 @@
 			buildConfigurationList = C8984C621C36AF35001E4272 /* Build configuration list for PBXNativeTarget "RxDataSources" */;
 			buildPhases = (
 				783D0B9C22A83BC600B15646 /* Swiftlint */,
+				C8984C571C36AF35001E4272 /* Headers */,
 				C8984C551C36AF35001E4272 /* Sources */,
 				C8984C561C36AF35001E4272 /* Frameworks */,
-				C8984C571C36AF35001E4272 /* Headers */,
 				C8984C581C36AF35001E4272 /* Resources */,
 			);
 			buildRules = (
